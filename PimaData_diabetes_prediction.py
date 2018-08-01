@@ -54,7 +54,7 @@ df['diabetes'] = df['diabetes'].map(diabetes_map)
 print(df.head(5))
 
 #############################################################################
-#          Check data distribution
+#          Check data distribution in source file
 #
 #############################################################################
 # Result data distribution
